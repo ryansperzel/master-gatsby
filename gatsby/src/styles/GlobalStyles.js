@@ -10,6 +10,7 @@ const GlobalStyles = createGlobalStyle`
     --white: #fff;
     --grey: #efefef;
     --green: #225511;
+    --purple: #332244;
   }
   html {
     background-image: url(${bg});
